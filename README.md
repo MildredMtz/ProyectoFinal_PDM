@@ -26,7 +26,7 @@ Repositorio para almacenar la implementación de una aplicación realizada con A
 
 <br>
 
-<img src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6" width="400" height="300" alt="inicio">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHluYWVmdXZycm54YmkzemdxN214dmdrdmRsYm41czdob2Rtcng1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif" width="400" height="300" alt="inicio">
 
 <br>
 
