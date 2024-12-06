@@ -46,21 +46,30 @@ Repositorio para almacenar la implementación de una aplicación realizada con A
     </tr>
 </table>
 
-</dt>
+</br>
 Nuestro proyecto consiste en la elaboración de una aplicación usando Android Studio, en este caso nuestra 
 aplicación se llama "Gym_Virtual" y consiste en proporcionar al usuario rutinas y planes alimenticios para 
 mejorar su salud.
+</br>
+</br>
 La aplicación contiene una pantalla principal para registarse si es un usuario nuevo, después de este 
 registro la información se guarda en una base de datos para controlar el acceso a la aplicación y ya no será 
 necesario volver a registrarse en futuras visitas.
+</br>
 Una vez dentro de la aplicación nos pedirá información únicamente la primera vez que ingresemos, esta información
 se guardará y encaso de querer modificarla sólo seleccionamos la opción "Perfil" -> "Cambiar Datos".
-</dt>
+</br>
+</br>
 Algunas funciones que tenemos en la aplicación son:
+</br>
 - Buscar entrenador: El cual nos da una lista de entrenadores reconocidos.
+</br>
 - Calendario: Nos da la posibilidad de seleccionar fechas y guardar eventos.
+</br>
 - Comida: Nos recomienda alimentos según nuestros objetivo y nos permite calcular nuestro IMC.
+</br>
 - Ejercicios en casa y Ejercicios en Gimnasio: Nos da ejercicios separados por zonas específicas, para 
 ingresar a la lista de ejercicios presionamos la imágen o el texto principal.
-</dt>
+</br>
+</br>
 Finalmente la aplicación trata de ser interactiva y fácil de usar para cualquier usuario. 
